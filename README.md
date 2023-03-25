@@ -5,3 +5,5 @@ Current condition: still working on main Python file, basic structure of chatbot
 
 To run the main python code, you will need Python 3.7.
 Please download it via https://www.python.org/downloads/release/python-370/
+
+also, it requires chatterbot 1.0.4, however, by running the file 'launch.bat', it automatically installs.
