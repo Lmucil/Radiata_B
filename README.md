@@ -27,6 +27,8 @@ The screen below should appear.
 You can start typing to search things about the masterpiece anime, Lycoris Recoil.
 
 # 日本語について
-日本語も含める予定ですが、文法の構造上複雑かつ膨大なデータになるので、答えられる質問は少なくなります。
+日本語も含める予定ですが、データが大きくなるので、答えられる質問は少なくなります。
+
+英語である質問は全て翻訳を頑張ってみます。
 
 後日日本語版を出そうか迷っているところです。
