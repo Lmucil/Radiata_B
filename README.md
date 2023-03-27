@@ -13,7 +13,7 @@ Windows 10 or above
 Please download it via https://www.python.org/downloads/release/python-370/ )
 
 # How to run
-just run 'launch.bat' to start.
+just run 'launch.bat' to start by double-clicking it.
 
 Then the library chatterbot 1.0.4 will be automatically installed if you have Python 3.7 installed.
 
