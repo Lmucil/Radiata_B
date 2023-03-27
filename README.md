@@ -1,7 +1,8 @@
 # Radiata_B
 A simple chatbot specialized for an anime, Lycoris Recoil.
 
-Current condition: still working on main Python file, basic structure of chatbot is already constructed, I am just putting data to be trained.
+# Current condition
+still working on main Python file, basic structure of chatbot is already constructed, I am just putting data to be trained.
 
 # Requirements
 Python 3.7 
