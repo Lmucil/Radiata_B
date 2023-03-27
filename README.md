@@ -20,6 +20,7 @@ Then the library chatterbot 1.0.4 will be automatically installed if you have Py
 It will open cmd, then wait for a while, it should take less than 20 seconds, et voilà!
 
 The screen below should appear.
+
 <img width="342" alt="EaseUS_2023_03_27_15_14_08" src="https://user-images.githubusercontent.com/112993351/228043439-c725f42b-b857-4087-9224-6b8e5280899f.png">
 
 You can start typing to search things about the masterpiece anime, Lycoris Recoil.
