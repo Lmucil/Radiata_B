@@ -2,7 +2,7 @@
 A simple chatbot specialized for an anime, Lycoris Recoil.
 
 # Current condition
-still working on main Python file, basic structure of chatbot is already constructed, I am just putting data to be trained.
+still working on main Python file, basic structure of chatbot is already constructed, I am just putting data to be trained. The file is not uploaded yet.
 
 # Requirements
 Python 3.7 
