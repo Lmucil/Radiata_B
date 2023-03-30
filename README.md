@@ -26,6 +26,9 @@ The screen below should appear.
 
 You can start typing to search things about the masterpiece anime, Lycoris Recoil.
 
+# Just to let you know
+As this is not for communicating but for searching information about specific anime, json nor yaml files are not used for the training data. That is why it takes a little bit longer to load the trainers.
+
 # 日本語について
 日本語も含める予定ですが、データが大きくなるので、答えられる質問は少なくなります。
 
