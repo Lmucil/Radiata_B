@@ -1,15 +1,13 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-
-
 color 2
 
 py -V > temp.txt
 
 findstr /c:"3.7" temp.txt >nul
 if %errorlevel% equ 0 (
-  py -3.7 -m pip install chatterbot==1.0.4 pytz
+  py -3.7 -m pip install chatterbot==1.0.4 pytz wikipedia
   cls 
   
   echo chatterbot installation complete
