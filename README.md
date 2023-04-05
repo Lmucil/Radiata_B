@@ -24,7 +24,7 @@ The screen below should appear.
 
 <img width="342" alt="EaseUS_2023_03_27_15_14_08" src="https://user-images.githubusercontent.com/112993351/228043439-c725f42b-b857-4087-9224-6b8e5280899f.png">
 
-You can start typing to search things about the masterpiece anime, Lycoris Recoil.
+You can start typing to search things about the masterpiece, Lycoris Recoil.
 
 # Just to let you know
 As this is not for communicating but for searching information about specific anime, json nor yaml files are not used for the training data. That is why it takes a little bit longer to load the trainers.
