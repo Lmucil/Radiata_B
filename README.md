@@ -30,7 +30,7 @@ You can start typing to search things about the masterpiece, Lycoris Recoil.
 As this is not for communicating but for searching information about specific anime, json nor yaml files are not used for the training data. That is why it takes a little bit longer to load the trainers.
 
 # 日本語について
-日本語も含める予定ですが、データが大きくなるので、答えられる質問は少なくなります。
+日本語も含める予定ですが、データ量が大きくなるので、答えられる質問は少なくなります。
 
 英語である質問は全て翻訳を頑張ってみます。
 
